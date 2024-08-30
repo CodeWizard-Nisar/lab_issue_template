@@ -7,18 +7,17 @@ assignees: ''
 
 ---
 
-**As a** [Marketing Manager]
- **I need** [Customers names and emails for marketing promotions]
- **So that** [we successfully inform customers about our marketing promotions]
+**As a** [Role]
+ **I need** [Function]
+ **So that** [Benefit]
    
  ### Details and Assumptions
- * [we maintain customer emails}
-*[customer have opted in to promotions]
+ * [Document What u Know]
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [there are 100 customers in database. 90 out of 100 opted into email promotions]
- When [i request a customer name and email list]
- Then [i should see a list of 90 customer emails]
+ Given [some context]
+ When [some event happen]
+ Then [it shows expected behavior]
  ```
